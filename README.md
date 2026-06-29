@@ -29,16 +29,22 @@ Here are the visual demonstrations of the system in action, showcasing data inpu
 
 ### 1. Main System Menu & Setup
 The main dashboard provides an interactive terminal loop preventing improper sequential flows:
-![System Setup](project/photo/Screenshot 2026-06-29 134210.png)
+<br>
+<img src="project/photo/Screenshot 2026-06-29 134210.png" alt="System Setup" width="100%">
 
 ### 2. Algorithmic Sorting & Previews
 Once the records are inputted, the corresponding backend sorting algorithm triggers automatically to structure the dataset:
-| Club Sorting (Merge Sort) & Search | Member Sorting (Quick Sort) |
-|--- |--- |
-| ![Club and Search Preview](project/photo/Screenshot 2026-06-29 134228.png) | ![Member Preview](project/photo/Screenshot 2026-06-29 134237.png) |
 
----
-
+<table>
+  <tr>
+    <td width="50%"><b>Club Sorting (Merge Sort) & Search</b></td>
+    <td width="50%"><b>Member Sorting (Quick Sort)</b></td>
+  </tr>
+  <tr>
+    <td><img src="project/photo/Screenshot 2026-06-29 134228.png" alt="Club Preview"></td>
+    <td><img src="project/photo/Screenshot 2026-06-29 134237.png" alt="Member Preview"></td>
+  </tr>
+</table>
 ## 🚀 Technical Requirements & Execution
 
 ### Prerequisites
